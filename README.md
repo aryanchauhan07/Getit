@@ -1,2 +1,3 @@
 # Getit
-this is my first Git repository author aryan
+this is my first Git repository author : aryan chauhan
+
